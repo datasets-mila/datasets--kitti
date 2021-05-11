@@ -1,2 +1,5 @@
 .nfs*
 /.tmp/
+/calib/
+/images/
+/labels/
